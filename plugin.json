@@ -1,0 +1,13 @@
+{
+	"pluginName": "HtmlToMd",
+	"description": "Html转换Markdown",
+	"main": "index.html",
+	"version": "0.0.1",
+	"features": [
+	    {
+			"code": "md",
+			"explain": "transfer html to markdown",
+	        "cmds":["md", "tomd"]
+	    }
+	]
+}
